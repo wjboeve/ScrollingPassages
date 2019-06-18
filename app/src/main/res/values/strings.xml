@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollingPassages</string>
+    <string name="head">Pick A Passage</string>
+    <string name="p1">1st</string>
+    <string name="p2">2nd</string>
+    <string name="p3">3rd</string>
+</resources>

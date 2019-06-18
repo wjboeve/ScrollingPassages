@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passage1">Safety is an Expensive Illusion\n\n
+Man, I sure lead a risky life these days. I’ve learned that I am on the bleeding edge of so many wild frontiers, it is a wonder that I’m still alive. When you add in the fact that I’m also in great health, constantly happy, and I even still have all of my fingers and toes, I am expecting a call from the Guiness Book of World Records any day now. \n\n
+
+Let’s review a few of the risks people have told me I’m running: \n\n
+
+When I write about my strategy of driving only small, fuel-efficient cars, people chime in about how dangerous it is to drive anything except large trucks like the Chevrolet Tahoe. \n\n
+When I write about how we should all ride bikes, people whine about the danger of getting hit by cars while cycling. \n\n
+When I describe my love of carpentry and the power tools which make it possible, I get tales of severed fingers and punctured eyeballs. \n\n
+When I suggest that it’s more cost-effective to use only high-deductible health and home insurance, people talk about the risk of chronic diseases lurking just around the corner and the litigious people with slippery shoes who might fall on my sidewalk. \n\n
+When I write about how I never keep more than a few thousand dollars in uninvested cash around (instead of the $30,000 “emergency fund” that beginner financial advisers suggest), people gasp and talk about the dangers of holding only volatile investments\n\n
+I’ve been riding dirt bikes and motorcycles for 22 years now.. long enough to receive dozens of lessons about how dangerous those Death Machines are. \n\n
+I’ve even received earnest lectures about the dangers of microwave ovens, cell phones, wi-fi routers, fiat currency, nonstick pans, and the radioactive fallout from Japanese nuclear reactors. All of which I have taken no precaution against. \n\n
+So I’ve come to realize that I really am living on the edge by modern standards. \n\n
+
+How could this be? Why does our society have this obsession with safety and danger anyway? Have they picked it up from watching TV during the 15 years since I tuned out of the medium? \n\n
+
+Modern media seems to have figured out that Fear Sells*. If it’s possible to portray something as Scary, those sumbitches will find a way to do it. They’ve noticed that fear will keep you glued to the set, and fear will force you to make purchases to protect yourself. \n\n
+
+I see all of this as breaking down to two possibilities: Either I really am a radical risk-taker and these detractors of mine are much more sensible than I am. Or maybe, just maybe Mr. Money Mustache has actually thought about all this shit and still come to the conclusion that life is safe enough. \n\n
+
+As it turns out, I like doing the math on things like this. I can’t keep myself from making estimates of the Expected Value of almost every life action you can put a number on. These calculations happen whether I want them to or not, so I might as well make the best of it. \n\n
+
+Let’s use the often-repeated Small Car Argument as an example. \n\n
+
+I love small cars – the smaller the better. Better handling, easier parking, less wasted materials, and much better fuel efficiency. But some people think small cars are unsafe. They like to repeat scary statements like, “In a crash, the big vehicle wins. End of story”. \n\n
+
+But let’s look into that a bit further. The US government agency called the NHTSA compiles statistics of every major crash that happens in this country, and they’ve been doing it for decades. This has helped car manufacturers improve their designs to the point that fatalities (per mile driven) have dropped by 85% since the 1950s. What’s the rate today? About one fatality per hundred million vehicle miles driven. \n\n
+
+Next we can compare the fatality rates by vehicle type: \n\n
+The measurement is a little different, since this chart compares fatalities per 100,000 vehicles instead of per mile. But we can still reasonably estimate that my subcompact car is about 16.85/12.34 =  37% more dangerous than a full-size SUV. (also note that midsize cars are safer than SUVs of any type, further proving that the S is for Sucka). \n\n
+
+In an average year, I might drive 7,000 miles. So I’ve got a 7000/100,000,000 chance of killing myself by driving in any given year. In other words, there’s a 99.993% chance of surviving. \n\n
+
+I’ve got at best 60 driving years left in my life, so over a lifetime my chance of survival is (99.993^60), or 99.58%.  In other words, driving causes an expected 0.42% reduction in my lifespan. 0.42% of 60 years is about 4 months. \n\n
+
+If I increase my chance of dying by 37%, I subtract another 1.5 months from my expected lifetime. \n\n
+
+Is driving a Chevrolet Tahoe instead of my 2005 Scion xA for 60 years worth that extra 1.5 months of life I’m expected to gain from it? Let’s put that another way. \n\n
+
+Driving 7,000 miles a year for 60 years adds up to 420,000 miles. According to the EPA website, the 2005 Tahoe gets 14MPG combined, using 30,000 gallons of gas costing $120,000 at today’s prices. \n\n
+
+The Scion, burning at the EPA estimate of 30MPG combined (even though I average about 42 in mine), will use up $56,000 of gas. The fuel savings is $64,000. The savings over a lifetime of buying and maintaining smaller vehicles is even larger, but for this argument, fuel savings alone is enough to make the point. \n\n
+
+How long do you have to work to save $64,000 after taxes, commuting, and other work-related expenses? I’m guessing it is at least 6 months, and more likely two years or more. \n\n
+
+So the ‘safe’ SUV driver is working an extra two years, in order to extend his life by 1.5 months. That is not my idea of a good life strategy. \n\n
+
+And that’s before even taking into account the happiness gained by driving a sweet little well-engineered Japanese car instead of a gigantic piece of shit that can barely navigate a parking lot! \n\n
+
+Ok, that example ran a little long, but it sets us up nicely to handle the rest of the list in a flash. \n\n
+
+As it turns out, riding a bike extends your lifespan (due to health increases) by between 20 and 100 times more than it subtracts due to statistical risk of crashes. Ride a bike, and you can expect to live a lot longer, it’s as simple as that. Add in the cost savings from cycling, and the decision becomes even more obvious. \n\n
+
+Investing your money in productive assets like stocks provides much greater returns than keeping it “safe” in guaranteed accounts which don’t even keep up with inflation. \n\n
+
+Over-insuring yourself for any risk (including medical bills) provides a guaranteed stop on possible annual losses, in exchange for a statistically guaranteed larger lifetime loss in wealth. I can do the math almost as well as the actuaries at the insurance company can, and because of that, I carry insurance only against the most catastrophic cases (which don’t include minor things like totaling a car or under $10,000 of damage to my house). \n\n
+
+Carpentry and power tools provide guaranteed returns in exchange for an acceptably small amount of risk, so I take the risk and continue to profit. \n\n
+
+The microwave and the cell phone present no statistically significant risk to human health. Even if there was a risk, it would very likely be lower than the utility that these devices provide to my life, so I’d still use them. \n\n
+
+Do you see the pattern now?\n\n
+
+The risk-fearing Complainypants types always focus on the negative consequences of any possible activity.\n\n
+
+What they’re missing is the risk of not engaging in that activity. That risk is just as real, and it’s usually larger. But it’s a more hidden and less scary risk, so they take it, and over time they lose.\n\n
+
+Statistically, there only two risks in modern life that are significant enough to get me a little scared:\n
+
+the risk of wasting my life by not living it to its fullest\n
+the risk of ruining my own health at an early age, possibly limiting my ability to accomplish #1\n\n
+For most US residents, both of these carry a probability that is astronomically higher than everything else described in this article combined. Upwards of 50%. It’s so huge, that almost no other risks matter by comparison. So we can happily ignore everything else and focus on just those two things. \n\n
+
+My goal for the Mustachians is to constantly whittle both of those numbers down toward zero. Interestingly enough, the best way to accomplish it is often to fuck the conventional notions of “Safety” and start putting some good old-fashioned Risk back into your life. \n\n
+Update: One year later, I dug into the bicycling statistics a bit more and wrote another article on scaredypants disease. Biking turned out to be a little bit more dangerous than I had estimated, but it still easily wins as the safest form of transportation, because it extends your life by much more than it subtracts. Many complaints poured in over the minute details, but none were able to overcome the logic that is similar to this article: NOT cycling (or walking extensively every day) is a guaranteed loss. Sitting on your ass at a desk is extremely hazardous to your health. Cycling is a huge gain, with a small and easily mitigated accident loss that you subtract from that gain. \n\n
+*Fear Sells: That is surely why the Bullshit TV News focuses on scary and irrational short-term issues. But you know what? I’m finding that Optimism Sells as well, and it sells to a much nicer audience. To some, this is just a natural way of viewing the world, but it seems we’re an under-served audience. Optimism is also why I sought out that guest article from Jim Collins– he’s one of the few other people out there correctly reminding us that Everything is gonna be All Right.
+</string>
+</resources>
